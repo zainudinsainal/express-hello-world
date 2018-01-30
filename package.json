@@ -1,0 +1,10 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zainudinsainal <supernova37@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
